@@ -23,7 +23,7 @@ A PyQt6-based desktop application for automated brain tumor segmentation using d
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/brain-tumor-segmentation.git
+git clone https://github.com/chbakar26/Brain-Tumor-Segmentation-From-MRI-Scans.git
 cd brain-tumor-segmentation
 ```
 
@@ -116,7 +116,7 @@ seg_outputs/
         ├── BraTS_001_overlay.gif       # Animated visualization
         └── BraTS_001_examples.png      # Example slices with legend
 ```
-
+## 
 ## 🎨 Segmentation Labels
 
 | Label | Region | Color |
