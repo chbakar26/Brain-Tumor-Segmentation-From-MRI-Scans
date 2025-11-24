@@ -126,6 +126,11 @@ seg_outputs/
 
 https://github.com/user-attachments/assets/2a7e396d-b3d0-41d4-8081-ca209ef0834f
 
+## 🌐 Live Demo
+Try the web version of this application instantly on Hugging Face Spaces:
+[**👉 Click here to open the Live App**](https://huggingface.co/spaces/abubakaroo7/Brain_tumour_segmentation)
+
+<img width="494" height="415" alt="Screenshot 2025-11-24 180520" src="https://github.com/user-attachments/assets/750feb79-0406-459e-bfc1-b193b483104c" />
 
 
 ## 🎨 Segmentation Labels
