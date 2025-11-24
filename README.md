@@ -198,6 +198,6 @@ If you use this software in your research, please cite:
   title={Brain Tumor Segmentation Application},
   author={Your Name},
   year={2024},
-  url={https://github.com/yourusername/brain-tumor-segmentation}
+  git clone https://github.com/chbakar26/Brain-Tumor-Segmentation-From-MRI-Scans.git
 }
 ```
