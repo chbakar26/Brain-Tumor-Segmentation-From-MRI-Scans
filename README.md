@@ -116,7 +116,9 @@ seg_outputs/
         ├── BraTS_001_overlay.gif       # Animated visualization
         └── BraTS_001_examples.png      # Example slices with legend
 ```
-## 
+![App Interface](app_interface/Screenshot%202025-11-23%20111553.jpg)
+
+
 ## 🎨 Segmentation Labels
 
 | Label | Region | Color |
