@@ -107,7 +107,7 @@ Supported patterns:
 ## 📤 Output Structure
 
 Results are saved to `seg_outputs/<patient_id>/run_<timestamp>/`:
-
+![App Interface](app_interface/Screenshot%202025-11-23%20111553.jpg)
 ```
 seg_outputs/
 └── BraTS_001/
@@ -117,8 +117,8 @@ seg_outputs/
         └── BraTS_001_examples.png      # Example slices with legend
 ```
 ##[App Interface]
-(app_interface/Screenshot%202025-11-23%20111553.jpg)
 
+![App Interface](app_interface/Screenshot%202025-11-23%20111553.jpg)
 
 ## 🎨 Segmentation Labels
 
@@ -201,6 +201,6 @@ If you use this software in your research, please cite:
   title={Brain Tumor Segmentation Application},
   author={Abu bakar},
   year={2024},
-  git clone https://github.com/chbakar26/Brain-Tumor-Segmentation-From-MRI-Scans.git
+  url={https://github.com/chbakar26/Brain-Tumor-Segmentation-From-MRI-Scans}
 }
 ```
