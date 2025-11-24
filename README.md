@@ -115,9 +115,18 @@ seg_outputs/
         ├── BraTS_001_overlay.gif       # Animated visualization
         └── BraTS_001_examples.png      # Example slices with legend
 ```
+
 ## 🖥️ Application Interface
 
 ![App Interface](app_interface/Screenshot%202025-11-23%20111553.jpg)
+
+
+## 🎬 3D vizualization
+
+
+https://github.com/user-attachments/assets/2a7e396d-b3d0-41d4-8081-ca209ef0834f
+
+
 
 ## 🎨 Segmentation Labels
 
@@ -127,6 +136,7 @@ seg_outputs/
 | 1 | Necrotic Tumor Core | Red |
 | 2 | Peritumoral Edema | Green |
 | 3 | Enhancing Tumor | Yellow |
+
 
 ## 📊 Metrics Computed
 
