@@ -107,7 +107,6 @@ Supported patterns:
 ## 📤 Output Structure
 
 Results are saved to `seg_outputs/<patient_id>/run_<timestamp>/`:
-![App Interface](app_interface/Screenshot%202025-11-23%20111553.jpg)
 ```
 seg_outputs/
 └── BraTS_001/
@@ -116,7 +115,7 @@ seg_outputs/
         ├── BraTS_001_overlay.gif       # Animated visualization
         └── BraTS_001_examples.png      # Example slices with legend
 ```
-##[App Interface]
+## 🖥️ Application Interface
 
 ![App Interface](app_interface/Screenshot%202025-11-23%20111553.jpg)
 
