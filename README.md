@@ -196,7 +196,7 @@ If you use this software in your research, please cite:
 ```bibtex
 @software{brain_tumor_seg_2024,
   title={Brain Tumor Segmentation Application},
-  author={Your Name},
+  author={Abu bakar},
   year={2024},
   git clone https://github.com/chbakar26/Brain-Tumor-Segmentation-From-MRI-Scans.git
 }
